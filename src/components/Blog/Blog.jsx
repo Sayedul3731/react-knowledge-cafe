@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types';
 
 const Blog = ({blog}) => {
     const {author, author_img, cover, hashtag, posted_date, reading_time, title} = blog;
@@ -25,4 +25,7 @@ const Blog = ({blog}) => {
     );
 };
 
+Blog.propTypes = {
+    blog: PropTypes.object.isRequired
+}
 export default Blog;

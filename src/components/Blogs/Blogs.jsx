@@ -1,4 +1,3 @@
-import { data } from "autoprefixer";
 import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
