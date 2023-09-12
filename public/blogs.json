@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/rcDKwvj/clement-helardot-95-YRwf6-CNw8-unsplash-1.jpg",
+      "title": "Lorem Ipsum: A Journey Through Text",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/fHp1Cvj/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 10,
+      "hashtag": ["Lorem", "Ipsum", "Text"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/BTr99cp/farzad-p-x-Sl33-Wxyc-unsplash.jpg",
+      "title": "Exploring the World of AI and Machine Learning",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/ZSsdF5w/ben-den-engelsen-YUu9-UAc-OKZ4-unsplash.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 8,
+      "hashtag": ["AI", "Machine Learning", "Technology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/FhgY8hg/daniel-korpai-p-KRNx-Egu-Rg-M-unsplash.jpg",
+      "title": "Cooking Adventures: Recipes from Around the Globe",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/Smttdt5/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 15,
+      "hashtag": ["Cooking", "Recipes", "Food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/ySFy0Sf/fotis-fotopoulos-6s-Al6a-Q4-OWI-unsplash.jpg",
+      "title": "The Art of Photography: Capturing Moments in Time",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/wz2QvRh/luis-villasmil-hh3-Vi-D0r0-Rc-unsplash.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
+      "hashtag": ["Photography", "Art", "Moments"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/qxcQfBX/teemu-paananen-bzdhc5b3-Bxs-unsplash.jpg",
+      "title": "Fitness and Wellness: Your Path to a Healthier Life",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/pX4HXgR/eric-weber-n-QOQVJW7-EY8-unsplash.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 20,
+      "hashtag": ["Fitness", "Wellness", "Health"]
+    }
+  ]
+  
