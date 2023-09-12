@@ -14,7 +14,6 @@ const Blogs = () => {
 
     return (
         <div>
-            <h1 className='text-5xl'>React Knowledge Cafe</h1>
             {
                 blogs.map(blog => console.log(blog))
             }
