@@ -16,7 +16,7 @@ const Blog = ({blog, handleAddToBookmark}) => {
                 </div>
                 <div className='flex'>
                     <p className='mr-3'>{reading_time} min read</p>
-                    <button onClick={handleAddToBookmark}><FaBookmark></FaBookmark></button>
+                    <button onClick={() => handleAddToBookmark(blog)}><FaBookmark></FaBookmark></button>
                 </div>
             </div>
             <h3 className="text-4xl font-semibold mb-4">{title}</h3>
