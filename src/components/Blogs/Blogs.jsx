@@ -13,7 +13,8 @@ const Blogs = () => {
     },[])
 
     return (
-        <div>
+        <div className="w-2/3">
+            <h3>Blog</h3>
             {
                 blogs.map(blog => console.log(blog))
             }
